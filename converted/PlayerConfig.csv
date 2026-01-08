@@ -1,0 +1,15 @@
+Key,Value,Notes,NeedsConfirm
+InitialHP,200,起始生命值,Y
+InitialATK,10,起始攻击力,Y
+InitialDEF,10,起始防御力,Y
+InitialGold,0,起始金钱,Y
+InitialKeyY,1,起始黄钥匙数量,Y
+InitialKeyB,0,起始蓝钥匙数量,Y
+InitialKeyR,0,起始红钥匙数量,Y
+MaxHP,9999,生命值上限,Y
+MaxATK,999,攻击力上限,Y
+MaxDEF,999,防御力上限,Y
+MaxGold,99999,金钱上限,Y
+MaxKeyY,99,黄钥匙上限,Y
+MaxKeyB,99,蓝钥匙上限,Y
+MaxKeyR,99,红钥匙上限,Y

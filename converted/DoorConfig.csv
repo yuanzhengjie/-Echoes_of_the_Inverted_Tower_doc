@@ -1,0 +1,4 @@
+DoorType,CellType,KeyColor,KeyRequired,Passable,Notes,NeedsConfirm
+Yellow,DoorY,Y,1,N,黄门 - 需要1把黄钥匙开启,Y
+Blue,DoorB,B,1,N,蓝门 - 需要1把蓝钥匙开启,Y
+Red,DoorR,R,1,N,红门 - 需要1把红钥匙开启,Y
