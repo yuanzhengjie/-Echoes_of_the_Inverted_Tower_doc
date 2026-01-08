@@ -1,0 +1,46 @@
+20 6 3Floor None
+20 7 3 Floor None
+20 8 3 Floor Enemy E006 1
+20 9 3 Wall None
+20 1 4Wall None
+20 2 4 Floor None
+20 3 4 Floor Enemy E008 1
+20 4 4 Floor None
+20 5 4Wall None
+20 6 4 Floor None
+20 7 4Wall None
+20 8 4Wall None
+20 9 4Wall None
+20 1 5 Wall None
+20 2 5 Floor Enemy £007 1
+20 3 5 Floor None
+20 4 5 Floor Item 1001 1
+20 5 5 Wall None
+20 6 5 Floor None
+20 7 5 Floor None
+20 8 5 Floor None
+20 9 5 Wall None
+20 1 6 Wall None
+20 2 6 Wall None
+20 3 6 Wall None
+20 4 6 Floor Enemy E006 1
+20 5 6 Wall None
+20 6 6 Floor Enemy B020 1
+20 7 6 Floor None
+20 8 6 Floor None
+20 9 6 Wall None
+20 1 7 Wall None
+20 2 7 Floor None
+20 3 7 Floor None
+20 4 7 Floor Enemy E009 1
+20 5 7 DoorB None
+20 6 7 Floor Enemy £007 1
+20 7 7 Floor None
+20 8 7 Floor None
+20 9 7 Wall None
+20 1 8 Wall None
+20 2 8 Floor None
+20 3 8 Floor None
+20 4 8 Floor None
+20 5 8 Wall None
+20 6 8 Floor None

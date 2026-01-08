@@ -1,0 +1,2 @@
+Wall/Floor/DoorY/DoorB/DoorR/Start/StairDown/StairUp
+ResetFloor 0 重 置 当前

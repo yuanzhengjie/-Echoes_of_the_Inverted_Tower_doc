@@ -1,0 +1,46 @@
+5 7 5 Floor None
+5 8 5 Floor None
+5 9 5 Wall None
+5 1 6 Wall None
+5 2 6 Floor None
+5 3 6 Floor None
+5 4 6 Wall None
+5 5 6 Floor None
+5 6 6 Wall None
+5 7 6 Floor None
+5 8 6 Floor Enemy E004 1
+5 9 6 Wall None
+5 1 7 Wall None
+5 2 7 Floor None
+5 3 7 Floor None
+5 4 7 Floor None
+5 5 7 Floor None
+5 6 7 Floor Enemy E003 1
+5 7 7 Floor None
+5 8 7 Floor None
+5 9 7 Wall None
+5 1 8 Wall None
+5 2 8 Floor Enemy E003 1
+5 3 8 Floor None
+5 4 8 Floor Enemy E004 1
+5 5 8 Floor Item 1020 1
+5 6 8 Floor None
+5 7 8 Floor None
+5 8 8 StairUp None
+5 9 8 Wall None
+5 1 9 Wall None
+5 2 9 Wall None
+5 3 9 Wall None
+5 4 9 Wall None
+5 5 9 Wall None
+5 6 9 Wall None
+5 7 9 Wall None
+5 8 9 Wall None
+5 9 9 Wall None
+6 1 1 Wall None
+6 2 1 Wall None
+6 3 1 Wall None
+6 4 1 Wall None
+6 5 1 Wall None
+6 6 1 Wall None
+6 7 1 Wall None

@@ -1,0 +1,46 @@
+27 1 7 Wall None
+27 2 7 Floor Enemy £015 1
+27 3 7 Wall None
+27 4 7 Wall None
+27 5 7 Floor Enemy £011 1
+27 6 7 Wall None
+27 7 7 Wall None
+27 8 7 Floor Enemy £015 1
+27 9 7 Wall None
+27 1 8 Wall None
+27 2 8 Floor None
+27 3 8 Floor Enemy £015 1
+27 4 8 Floor Enemy £015 1
+27 5 8 Floor None
+27 6 8 Floor Enemy £015 1
+27 7 8 Floor Enemy £011 1
+27 8 8StairUp None
+27 9 8 Wall None
+27 1 9 Wall None
+27 2 9 Wall None
+27 3 9 Wall None
+27 4 9 Wall None
+27 5 9 Wall None
+27 6 9 Wall None
+27 7 9 Wall None
+27 8 9 Wall None
+27 9 9 Wall None
+28 1 1 Wall None
+28 2 1 Wall None
+28 3 1 Wall None
+28 4 1 Wall None
+28 5 1 Wall None
+28 6 1 Wall None
+28 7 1 Wall None
+28 8 1 Wall None
+28 9 1 Wall None
+28 1 2 Wall None
+28 2 2StairDown None
+28 3 2Floor Enemy £013 1
+28 4 2Floor Enemy £014 1
+28 5 2Floor Enemy £012 1
+28 6 2Floor Enemy £014 1
+28 7 2Floor Enemy £014 1
+28 8 2Floor Enemy £012 1
+28 9 2 Wall None
+28 1 3Wall None

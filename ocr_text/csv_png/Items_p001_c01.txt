@@ -1,0 +1,16 @@
+Items.csv rows 1-11 (page 1/1) cols 1-10
+
+ItemID         Name         Type        EffectHP      EffectATK      EffectDEF     EffectMaxHP     KeyColor     SpecialTag       Price
+1001          红药水        Consumable | 50            0             0             0             nan           nan           0
+1002          蓝药水        Consumable | 200           0             0             0             nan           nan           0
+1003          黄药水        Consumable | 500           0             0             0             nan           nan           0
+1010          攻击宝石       Permanent    0             1             0             0             nan           nan           0
+1011          防御宝石       Permanent    0             0             1             0             nan           nan           0
+1012          生命宝石       Permanent    0             0             0             20            nan           nan           0
+1020 黄钥匙 Key 0 0 0 0 Y nan 0
+1021 蓝钥匙 Key 0 0 0 0 B nan 0
+1022 红钥是 Key 0 0 0 0 R nan 0
+1030          神秘知轴       Special        0             0             0             0             nan           RevealDamaga 0
+
+1031 时之沙 Special 0 0 0 0 nan ResetFloor 0
+

@@ -1,0 +1,46 @@
+16 8 3 Floor None
+16 9 3 Wall None
+16 1 4 Wall None
+16 2 4 Floor None
+16 3 4 Floor None
+16 4 4 Floor Enemy E008 1
+16 5 4 Wall None
+16 6 4 Floor None
+16 7 4 Wall None
+16 8 4Wall None
+16 9 4 Wall None
+16 1 5 Wall None
+16 2 5 Floor None
+16 3 5 Floor None
+16 4 5 Floor Enemy E009 1
+16 5 5 Wall None
+16 6 5 Floor None
+16 7 5 Floor None
+16 8 5 Floor Enemy E008 1
+16 9 5 Wall None
+16 1 6 Wall None
+16 2 6 Wall None
+16 3 6 Wall None
+16 4 6 Floor Enemy E009 1
+16 5 6 Wall None
+16 6 6 Floor None
+16 7 6 Floor None
+16 8 6 Floor None
+16 9 6 Wall None
+16 1 7 Wall None
+16 2 7 Floor None
+16 3 7 Floor Enemy E007 1
+16 4 7 Floor Enemy E008 1
+16 5 7 DoorB None
+16 6 7 Floor None
+16 7 7 Floor None
+16 8 7 Floor Enemy E008 1
+16 9 7 Wall None
+16 1 8 Wall None
+16 2 8 Floor Enemy E006 1
+16 3 8 Floor Enemy E008 1
+16 4 8 Floor Item 1020 1
+16 5 8 Wall None
+16 6 8 Floor None
+16 7 8 Floor Item 1020 1
+16 8 8 StairUp None

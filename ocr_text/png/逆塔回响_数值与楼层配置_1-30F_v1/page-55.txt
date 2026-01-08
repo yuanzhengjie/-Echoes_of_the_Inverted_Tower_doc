@@ -1,0 +1,46 @@
+24 5 8Floor Enemy £012 1
+24 6 8 Floor Enemy £011 1
+24 7 8 Floor Enemy £011 1
+24 8 8StairUp None
+24 9 8 Wall None
+24 1 9 Wall None
+24 2 9 Wall None
+24 3 9 Wall None
+24 4 9 Wall None
+24 5 9 Wall None
+24 6 9 Wall None
+24 7 9 Wall None
+24 8 9 Wall None
+24 9 9 Wall None
+25 1 1 Wall None
+25 2 1 Wall None
+25 3 1 Wall None
+25 4 1 Wall None
+25 5 1 Wall None
+25 6 1 Wall None
+25 7 1 Wall None
+25 8 1 Wall None
+25 9 1 Wall None
+25 1 2 Wall None
+25 2 2StairDown None
+25 3 2Floor Enemy £012 1
+25 4 2Floor None
+25 5 2Floor Enemy £011 1
+25 6 2Floor Enemy £013 1
+25 7 2Floor NPC Noo2 1
+25 8 2Floor Enemy £013 1
+25 9 2 Wall None
+25 1 3Wall None
+25 2 3Floor Enemy £013 1
+25 3 3Wall None
+25 4 3Wall None
+25 5 3Floor None
+25 6 3Wall None
+25 7 3Wall None
+25 8 3Floor None
+25 9 3Wall None
+25 1 4Wall None
+25 2 4Floor Enemy £012 1
+25 3 4 Floor Enemy £012 1
+25 4 4Wall None
+25 5 4DoorY None

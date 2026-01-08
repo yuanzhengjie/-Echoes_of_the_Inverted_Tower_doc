@@ -1,0 +1,23 @@
+OfferID NpcID Floor OfferType TargetID Amount CostGold Notes
+$001 NO002 5 Stat HP 50 10 HP+50， 早
+期 性 价 比
+高
+$002 NO002 5 Stat ATK 1 15 ATK+1
+S003 NO002 5 Stat DEF 1 15 DEF+1
+$004 NO002 5 Item 1001 1 8 红 药 水
+$005 NO002 5 Item 1020 1 5 黄 钥匙
+(GRIER)
+$101 NO002 15 Stat HP 100 25 HP+100
+$102 NO002 15 Stat ATK 1 30 ATK+1 (中
+期 更 贵 )
+$103 NO002 15 Stat DEF 1 30 DEF+1 (中
+期 更 贵 )
+$104 NO002 15 Item 1002 1 18 蓝 药水
+$105 NO002 15 Item 1021 1 20 蓝 钥匙
+(稀缺 )
+$201 NO002 25 Stat HP 150 45 HP+150
+$202 NO002 25 Stat ATK 1 55 ATKH (后
+期 更 贵 )
+$203 NO002 25 Stat DEF 1 55 DEF+1 (后
+期 更 贵 )
+$204 NO002 25 Item 1003 1 35 黄 药水

@@ -1,0 +1,4 @@
+NpcID,Name,Role,DialogueKey,Notes
+N001,守塔人,Guide,TUTORIAL_GUARDIAN,引导与世界观提示
+N002,商人,Shop,SHOP_STANDARD,出售升级与药水
+N003,记录碑,Lore,LORE_OBELISK,提供碎片文案与真结局线索

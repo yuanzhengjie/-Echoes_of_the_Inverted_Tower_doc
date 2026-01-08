@@ -1,0 +1,31 @@
+Battle Calculator (简化 版 )
+
+Player ATK 10 说 明 : 本 页 计算 “预计 损失 HP”。 已 处 理 lgnoreDE
+Player DEF 10 RB,
+
+Player HP 100
+
+四 绿 史 莱 姆 50 12 4None 0
+E002 洞 写 蝙 晤 60 14 5Firststrike 0
+
+E003 EN 80 16 6None 0
+E004 哥 布 林 90 18 8None 0
+E005 铁甲 卫 120 20 18 HighDEF 0
+E006 黑 骑士 220 28 18 None 0
+E007 吸血 晤 160 24 12Drain 5
+
+E008 法 师 学 徒 140 30 EE 0
+E009 诅咒 幽魂 180 26 15CurseATK -1
+
+E010 石像 魔 像 260 30 24 HighDEF 0
+EO RTS 200 40 16FirstStrike 1
+
+E012 术士 220 38 18 IgnoreDEF 0
+E013 mesg 320 45 28 Drain 8
+
+E014 SUR ESRB 260 34 22 Thorns 3
+
+E015 塔 卫 哨 兵 400 48 32 None 0
+BOLO 10F 楼 层 守卫 600 35 20None 0
+B020 20F 楼 层 守卫 1200 50 35 None 0
+B030 30F 楼 层 守卫 2000 70 50BuffEveryN 。 5:+5ATK

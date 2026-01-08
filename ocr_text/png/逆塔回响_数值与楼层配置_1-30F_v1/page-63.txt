@@ -1,0 +1,46 @@
+29 4 4Wall None
+29 5 4DoorY None
+29 6 4 Floor Enemy £015 1
+29 7 4Wall None
+29 8 4Floor Enemy £011 1
+29 9 4Wall None
+29 1 5 Wall None
+29 2 5 Floor Item 1002 1
+29 3 5 Wall None
+29 4 5 Floor Enemy £012 1
+29 5 5 Wall None
+29 6 5 Floor Enemy £015 1
+29 7 5 Floor None
+29 8 5 Floor Item 1020 1
+29 9 5 Wall None
+29 1 6 Wall None
+29 2 6 Floor Enemy £013 1
+29 3 6 Wall None
+29 4 6 Floor None
+29 5 6 Floor Enemy £012 1
+29 6 6 Floor Enemy £011 1
+29 7 6 Wall None
+29 8 6 Floor None
+29 9 6 Wall None
+29 1 7 Wall None
+29 2 7 Floor Item 1020 1
+29 3 7 Wall None
+29 4 7 Wall None
+29 5 7 Floor Enemy £013 1
+29 6 7 Wall None
+29 7 7 Wall None
+29 8 7 Floor Item 1031 1
+29 9 7 Wall None
+29 1 8 Wall None
+29 2 8 Floor Enemy £013 1
+29 3 8 Floor Enemy £012 1
+29 4 8 Floor Item 1003 1
+29 5 8 Floor Enemy £013 1
+29 6 8 Floor Enemy £013 1
+29 7 8 Floor None
+29 8 8StairUp None
+29 9 8 Wall None
+29 1 9 Wall None
+29 2 9 Wall None
+29 3 9 Wall None
+29 4 9 Wall None

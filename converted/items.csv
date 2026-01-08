@@ -1,0 +1,12 @@
+ItemID,Name,Type,EffectHP,EffectATK,EffectDEF,EffectMaxHP,KeyColor,SpecialTag,Price,Notes
+1001,红药水,Consumable,50,0,0,0,,,0,常见回复
+1002,蓝药水,Consumable,200,0,0,0,,,0,中期回复
+1003,黄药水,Consumable,500,0,0,0,,,0,后期回复
+1010,攻击宝石,Permanent,0,1,0,0,,,0,ATK+1
+1011,防御宝石,Permanent,0,0,1,0,,,0,DEF+1
+1012,生命宝石,Permanent,0,0,0,20,,,0,MaxHP+20 (可选实现为立即+20HP上限并回复同值)
+1020,黄钥匙,Key,0,0,0,0,Y,,0,开黄门
+1021,蓝钥匙,Key,0,0,0,0,B,,0,开蓝门
+1022,红钥匙,Key,0,0,0,0,R,,0,开红门
+1030,神秘卷轴,Special,0,0,0,0,,RevealDamage,0,显示本层各敌人预计损失(UI功能)
+1031,时之沙,Special,0,0,0,0,,ResetFloor,0,重置当前楼层一次(每局最多1个)

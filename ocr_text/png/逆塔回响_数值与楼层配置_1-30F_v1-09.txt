@@ -1,0 +1,10 @@
+NpcID Name Role 。 DialogueKey _Notes
+NO001 st, Guide TUTORIAL, GUA 引导 与 世
+界 观 提示
+NO002 商人 Shop SHOP_STANDA 出 售 升级
+RD a
+
+与 药水
+8 jam 58 LORE_OBELISK 提供 碎片
+文案 与 真
+结局 线索

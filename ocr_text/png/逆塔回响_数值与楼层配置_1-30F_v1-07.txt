@@ -1,0 +1,15 @@
+ItemID Name Type EffectHP EffectATK EffectDEF EffectMaxHP KeyColor
+1001 红 药 水 Consumabl 50 0 0 0
+e
+1002 蓝 药水 Consumabl 200 0 0 0
+| e
+1003 黄 药水 Consumabl 500 0 0 0
+| e
+1010 攻击 宝石 Permanent 0 1 0 0
+1011 防御 宝石 Permanent 0 0 工 0
+1012 生命 宝石 Permanent 0 0 0 20
+1020 黄 钥匙 Key 0 0 0 oY
+1021 蓝 钥匙 Key 0 0 0 0B
+1022 红 钥 是 Key 0 0 0 OR
+1030 神秘 卷轴 Special 0 0 0 0
+1031 时 之 沙 Special 0 0 0 0

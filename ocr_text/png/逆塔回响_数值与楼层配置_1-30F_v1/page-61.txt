@@ -1,0 +1,46 @@
+28 2 3 Floor Item 1020 1
+28 3 3 Wall None
+28 4 3 Wall None
+28 5 3 Floor Enemy £013 1
+28 6 3 Wall None
+28 7 3 Wall None
+28 8 3 Floor Item 1021 1
+28 9 3 Wall None
+28 1 4Wall None
+28 2 4 Floor Enemy £011 1
+28 3 4 Floor Enemy £012 1
+28 4 4Wall None
+28 5 4DoorY None
+28 6 4 Floor Item 1002 1
+28 7 4Wall None
+28 8 4 Floor None
+28 9 4Wall None
+28 1 5 Wall None
+28 2 5 Floor Enemy £011 1
+28 3 5 Wall None
+28 4 5 Floor None
+28 5 5 Wall None
+28 6 5 Floor Enemy £013 1
+28 7 5 Floor Enemy £013 1
+28 8 5 Floor Enemy £014 1
+28 9 5 Wall None
+28 1 6 Wall None
+28 2 6 Floor Enemy £015 1
+28 3 6 Wall None
+28 4 6 Floor None
+28 5 6 Floor None
+28 6 6 DoorB None
+28 7 6 Wall None
+28 8 6 Floor Enemy £015 1
+28 9 6 Wall None
+28 1 7 Wall None
+28 2 7 Floor NPC NOO3 1
+28 3 7 Wall None
+28 4 7 Wall None
+28 5 7 Floor Enemy £015 1
+28 6 7 Wall None
+28 7 7 Wall None
+28 8 7 Floor Enemy £015 1
+28 9 7 Wall None
+28 1 8 Wall None
+28 2 8 Floor Item 1020 1

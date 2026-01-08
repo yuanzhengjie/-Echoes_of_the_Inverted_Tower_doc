@@ -1,0 +1,12 @@
+|
+逆 塔 回响 (独立 游戏 数值 配置 v1)
+
+2026-01-07 10:04:08
+
+9x9 (X=1..9, Y=1..9)
+
+Wall/Floor/DoorY/DoorB/DoorR/Start/StairDown/StairUp
+
+Enemy/Item/NPC/None
+
+本 工作 短 用 于 1-30F Demo; 31F+ 可 按 同 结构 扩展 。

@@ -1,0 +1,2 @@
+Key,Project,GeneratedAt,GridSize,CellType,ContentType,Notes
+,逆塔回响 (独立游戏数值配置 v1),2026-01-07 10:04:08,"9x9 (X=1..9, Y=1..9)",Wall/Floor/DoorY/DoorB/DoorR/Start/StairDown/StairUp,Enemy/Item/NPC/None,本工作簿用于1-30F Demo; 31F+ 可按同结构扩展。

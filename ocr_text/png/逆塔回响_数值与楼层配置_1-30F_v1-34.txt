@@ -1,0 +1,46 @@
+12 2 9Wall None
+12 3 9Wall None
+12 4 9Wall None
+12 5 9Wall None
+12 6 9 Wall None
+12 7 9 Wall None
+12 8 9 Wall None
+12 9 9 Wall None
+13 1 1 Wall None
+13 2 1 Wall None
+13 3 1 Wall None
+13 4 1 Wall None
+13 5 1 Wall None
+13 6 1 Wall None
+13 7 1 Wall None
+13 8 1 Wall None
+13 9 1 Wall None
+13 1 2 Wall None
+13 2 2StairDown None
+13 3 2 Floor None
+13 4 2 Floor None
+13 5 2 Wall None
+13 6 2 Floor None
+13 7 2 Floor None
+13 8 2 Floor Enemy E007 1
+13 9 2 Wall None
+13 1 3 Wall None
+13 2 3 Floor Enemy E008 1
+13 3 3 Floor None
+13 4 3 Floor None
+13 5 3 DoorY None
+13 6 3 Floor None
+13 7 3 Floor None
+13 8 3 Floor None
+13 9 3 Wall None
+13 1 4Wall None
+13 2 4 Floor None
+13 3 4 Floor None
+13 4 4 Floor Enemy E007 1
+13 5 4Wall None
+13 6 4 Floor None
+13 7 4Wall None
+13 8 4Wall None
+13 9 4Wall None
+13 1 5 Wall None
+13 2 5 Floor Enemy E008 1

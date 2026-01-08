@@ -1,0 +1,20 @@
+EnemyID Name Tier HP ATK DEF Gold 。 SpecialType
+E001 绿 史 莱 姆 1 50 12 4 1None
+£002 洞 写 蝙 晤 1 60 14 5 2 FirstStrike
+£003 A 1 80 16 6 3 None
+E004 哥 布 林 1 90 18 8 4None
+£005 铁甲 卫 1 120 20 18 8 HighDEF
+£006 黑 骑士 2 220 28 18 10 None
+E007 吸血 时 2 160 24 12 9 Drain
+E008 法 师 学 秆 2 140 30 8 10 IgnoreDEF
+£009 诅咒 幽魂 2 180 26 15 12 CurseATK
+E010 石像 麻 像 2 260 30 24 14 HighDEF
+£011 ene 3 200 40 16 15 FirstStrike
+£012 术士 3 220 38 18 16 IgnoreDEF
+£013 mesg 3 320 45 28 20 Drain
+£014 EPR 3 260 34 22 18 Thorns
+
+$8
+£015 塔 卫 哨兵 3 400 48 32 25 None
+B010 10F 楼 层 守 4 600 35 20 50 None
+卫

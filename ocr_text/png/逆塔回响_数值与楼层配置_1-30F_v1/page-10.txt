@@ -1,0 +1,23 @@
+OfferID NpcID 加 8 ”OfferType TargetID Amount CostGold Notes
+$001 NO02 5Stat HP 50 10 Hp+50， 早
+期 性 价 比
+高
+S002 Noo2 5 Stat ATK 1 15ATK+1
+名 8 5Stat DEF 1 15 DEF+1
+S004 Noo2 5ltem 1001 1 8 红 药 水
+$005 Noo2 5ltem 1020 1 5 黄 钥 是
+生灵
+S101 Noo2 15 Stat HP 100 25 HP+100
+$102 Noo2 15 Stat ATK 1 30 ark (中
+期 更 贵 )
+$103 Noo2 15 Stat DEF 1 30 per (中
+期 更 贵 )
+s104 Noo2 15 Item 1002 1 18 蓝 药水
+$105 Noo2 15 Item 1021 1 20 蓝 钼 是
+(稀缺 )
+$201 Noo2 25 Stat HP 150 45 HP+150
+$202 Noo2 25 Stat ATK 1 Sark (后
+期 更 贵 )
+$203 Noo2 25 Stat DEF 1 55pEFtt (后
+期 更 贵 )
+$204 Noo2 25 Item 003 1 35 黄 药水
