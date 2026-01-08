@@ -1,4 +1,4 @@
-DoorType,CellType,KeyColor,KeyRequired,Passable,Notes,NeedsConfirm
-Yellow,DoorY,Y,1,N,黄门 - 需要1把黄钥匙开启,Y
-Blue,DoorB,B,1,N,蓝门 - 需要1把蓝钥匙开启,Y
-Red,DoorR,R,1,N,红门 - 需要1把红钥匙开启,Y
+DoorType,CellType,KeyColor,KeyRequired,Notes
+Yellow,DoorY,Y,1,黄门 - 消耗1把黄钥匙开启 (最常见)
+Blue,DoorB,B,1,蓝门 - 消耗1把蓝钥匙开启 (较稀有)
+Red,DoorR,R,1,红门 - 消耗1把红钥匙开启 (最稀有)

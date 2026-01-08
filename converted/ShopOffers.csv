@@ -1,16 +1,17 @@
-ShopID,Floor,OfferType,EffectType,EffectValue,Price,Stock,Repeatable,Notes,NeedsConfirm
-S001,5,Upgrade,ATK,1,20,-1,Y,攻击+1 (无限购买),Y
-S002,5,Upgrade,DEF,1,20,-1,Y,防御+1 (无限购买),Y
-S003,5,Upgrade,HP,50,20,-1,Y,生命+50 (无限购买),Y
-S004,5,Item,KeyY,1,10,-1,Y,黄钥匙 (无限购买),Y
-S005,15,Upgrade,ATK,1,30,-1,Y,攻击+1 (中期价格),Y
-S006,15,Upgrade,DEF,1,30,-1,Y,防御+1 (中期价格),Y
-S007,15,Upgrade,HP,100,30,-1,Y,生命+100 (中期价格),Y
-S008,15,Item,KeyY,1,15,-1,Y,黄钥匙 (中期价格),Y
-S009,15,Item,KeyB,1,30,3,N,蓝钥匙 (限购3个),Y
-S010,25,Upgrade,ATK,1,50,-1,Y,攻击+1 (后期价格),Y
-S011,25,Upgrade,DEF,1,50,-1,Y,防御+1 (后期价格),Y
-S012,25,Upgrade,HP,200,50,-1,Y,生命+200 (后期价格),Y
-S013,25,Item,KeyY,1,20,-1,Y,黄钥匙 (后期价格),Y
-S014,25,Item,KeyB,1,50,5,N,蓝钥匙 (限购5个),Y
-S015,25,Item,KeyR,1,100,1,N,红钥匙 (限购1个),Y
+ShopID,Floor,OfferType,EffectType,EffectValue,Price,Stock,Repeatable,Notes
+S001,5,Upgrade,ATK,1,20,-1,Y,攻击+1 (早期基础价)
+S002,5,Upgrade,DEF,1,20,-1,Y,防御+1 (早期基础价)
+S003,5,Upgrade,HP,200,25,-1,Y,生命+200
+S004,5,Item,KeyY,1,10,-1,Y,黄钥匙 (无限购买)
+S005,5,Item,KeyB,1,50,2,N,蓝钥匙 (限购2把)
+S006,15,Upgrade,ATK,1,40,-1,Y,攻击+1 (中期价格)
+S007,15,Upgrade,DEF,1,40,-1,Y,防御+1 (中期价格)
+S008,15,Upgrade,HP,200,50,-1,Y,生命+200
+S009,15,Item,KeyY,1,15,-1,Y,黄钥匙
+S010,15,Item,KeyB,1,80,3,N,蓝钥匙 (限购3把)
+S011,25,Upgrade,ATK,1,80,-1,Y,攻击+1 (后期价格)
+S012,25,Upgrade,DEF,1,80,-1,Y,防御+1 (后期价格)
+S013,25,Upgrade,HP,200,100,-1,Y,生命+200
+S014,25,Item,KeyY,1,25,-1,Y,黄钥匙
+S015,25,Item,KeyB,1,120,5,N,蓝钥匙 (限购5把)
+S016,25,Item,KeyR,1,200,1,N,红钥匙 (限购1把 - 珍贵)
